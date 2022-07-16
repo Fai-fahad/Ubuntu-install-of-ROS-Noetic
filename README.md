@@ -2,5 +2,5 @@
 Download steps
 # Downloads - Oracle VM VirtualBox
 from this link:https://www.virtualbox.org/wiki/Downloads 
-#Download Ubuntu
+# Download Ubuntu
 from this link:https://ubuntu.com/download#download
