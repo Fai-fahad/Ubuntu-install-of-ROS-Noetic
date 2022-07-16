@@ -4,3 +4,5 @@ Download steps
 from this link:https://www.virtualbox.org/wiki/Downloads 
 # Download Ubuntu
 from this link:https://ubuntu.com/download#download
+# Open Ubuntu
+from  the new button
