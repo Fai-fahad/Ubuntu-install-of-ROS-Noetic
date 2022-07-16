@@ -11,4 +11,6 @@ We create  Virtual Machine
 1.Add the Name like(Ubunto)
 2.Select the Machine Folder
 3.Select the type and version 
+![Capture2](https://user-images.githubusercontent.com/101976302/179356659-b13bc13a-3a2f-4eb6-9812-2d957564fe34.PNG)
+
 
