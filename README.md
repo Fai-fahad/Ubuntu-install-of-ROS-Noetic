@@ -7,4 +7,8 @@ from this link:https://ubuntu.com/download#download
 # Open Ubuntu
 from  the new button
 ![Capture1](https://user-images.githubusercontent.com/101976302/179356444-9670ecc7-e5ef-49d9-a616-78bae1653f78.PNG)
+We create  Virtual Machine
+1.Add the Name like(Ubunto)
+2.Select the Machine Folder
+3.Select the type and version 
 
